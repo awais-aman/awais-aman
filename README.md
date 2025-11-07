@@ -2,7 +2,7 @@
   <img src="github.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Awais Aman</h1>
+<h1 align="center">Hi, I'm Awais Aman</h1>
 <h3 align="center">Senior Software Engineer</h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Adeel" height="30" width="40" /></a>
@@ -13,10 +13,10 @@
 <p align="center">
   <em>
     This is ME, Awais Aman<br>
-    A budding <b>Full-Stack Software Engineer</b> <img src="Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Full-Stack Software Engineer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
     with a passion for creating <b>dynamic</b> and <b>user-friendly</b> web applications. Adept at building robust and scalable solutions that deliver exceptional user experiences. <b>improving</b> himself and wants a <b>platform</b> to
-    <b>grow</b> <img src="Rocket.gif" width="18px">and
-    <b>excel</b> <img src="Medal.gif" width="20px">&nbsp.
+    <b>grow</b> and
+    <b>excel</b> &nbsp.
   </em>
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
@@ -27,8 +27,6 @@
 ### <u> Languages: </u>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-red?style=for-the-badge&logo=ruby-on-rails" alt="Ruby on Rails" title="HTML5" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
