@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="github.png" height="200"/>
-</p>
 <hr>
 <h1 align="center">Hi, I'm Awais Aman</h1>
 <h3 align="center">Senior Software Engineer</h3>
